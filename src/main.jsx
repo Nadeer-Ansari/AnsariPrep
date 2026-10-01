@@ -10,7 +10,7 @@ import { StudyProvider } from './context/StudyContext'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <StudyProvider><App /></StudyProvider>
     </BrowserRouter>
   </React.StrictMode>,
