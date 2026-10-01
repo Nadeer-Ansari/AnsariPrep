@@ -1,0 +1,3848 @@
+[
+  {
+    "id": "imported-1",
+    "question": "Implement Queue using Stack?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-1",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-2",
+    "question": "What is a Database?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-3",
+    "question": "What are the types of SQL commands?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-4",
+    "question": "What is Primary Key?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-5",
+    "question": "What is Foreign Key?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-6",
+    "question": "What is UNIQUE Key?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-7",
+    "question": "What is the difference between Primary Key and UNIQUE Key?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-8",
+    "question": "What is NOT NULL constraint?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-9",
+    "question": "What is Default Constraint?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-10",
+    "question": "What is the difference between DELETE, TRUNCATE, and DROP?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-11",
+    "question": "What is the difference between WHERE and HAVING?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-12",
+    "question": "What are Joins in SQL?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-13",
+    "question": "What is INNER JOIN?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-2",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-14",
+    "question": "Write a Java program to check if a number is prime?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-15",
+    "question": "Write a Java program to sort an array using the bubble sort?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-16",
+    "question": "Write a Java program to reverse a string?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-17",
+    "question": "Write a Java program to check if a string is a rotation of?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-18",
+    "question": "Write a Java program to check for balanced parentheses in an?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-19",
+    "question": "System.out.println(\"Is the expression balanced? \" +?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-20",
+    "question": "Output: Is the expression balanced? true?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-21",
+    "question": "Write a Java program to find the largest number in an array?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-22",
+    "question": "Write a Java program to print the Fibonacci series up to n?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-23",
+    "question": "Write a Java program to find the sum of digits of a number?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-24",
+    "question": "Write a Java program to print all prime numbers up to n?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-25",
+    "question": "Write a Java program to find the length of the longest?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview preparation document. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-3",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-26",
+    "question": "https://www.youtube.com/watch?v=Q1B5lgxIPrU?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-27",
+    "question": "https://www.careercup.com/question?id=5145121580384256?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-28",
+    "question": "Latest version of java? Which one did you use in your project?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-29",
+    "question": "Explain OOPs pillars that helped you in your project. Use cases were expected?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-30",
+    "question": "What will be the output:?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-31",
+    "question": "Threading: Why is there Runnable interface when there is already Thread class?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-32",
+    "question": "How is synchronisation achieved in java? Use case for synchronisation and situation where it can be?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-33",
+    "question": "How do Set and HashMap work internally in Java?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-34",
+    "question": "What is their initial capacity and what happens when it is exhausted?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-35",
+    "question": "Is HashMap thread safe? How to make it thread safe?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-36",
+    "question": "Explain the flow of a REST request in a Spring Boot application, starting from the React client to the?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-37",
+    "question": "@Transactional use case, is it required every time? Is it method level or class level?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-4",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-38",
+    "question": "Class<?> c = Class.forName(\"MyClass\");?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Java core concepts. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-6",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-39",
+    "question": "Wildcard in Generics (?)?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Java core concepts. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-6",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-40",
+    "question": "<? extends T>: accepts T or its subclasses?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Java core concepts. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-6",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-41",
+    "question": "<? super T>: accepts T or its superclasses?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Java core concepts. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-6",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-42",
+    "question": "without the screws how will u make ur journey complete?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-43",
+    "question": "weighings will be needed? (This question was asked in two companies from me)?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-44",
+    "question": "What you know about OOP?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-45",
+    "question": "What is Encapsulation, Abstraction?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-46",
+    "question": "Why you have less marks in CCEE?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-47",
+    "question": "How much time will you take to learn a new module if we will provide you with the?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-48",
+    "question": "What you will do to optimize this code?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-49",
+    "question": "Why you took only one input and do you think its ok to do so?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-50",
+    "question": "What is interface and abstract class?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-51",
+    "question": "What is CSS, What are different selectors in CSS?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-52",
+    "question": "What is Javascript and Jquery, What is the punch line of Jquery?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-53",
+    "question": "What is Bootstrap how you will define it?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C3IT Interview+Test. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-7",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-54",
+    "question": "Tell me about yourself?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-55",
+    "question": "What is the aim of your project? What tech stack did you use?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-56",
+    "question": "Which part of your project did you work on?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-57",
+    "question": "What is Bean, Service component and RestController?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-58",
+    "question": "What is the default behaviour of Bean and Service component?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-59",
+    "question": "Do you know about mul�-threading?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-60",
+    "question": "Are you comfortable with Data Structures?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-61",
+    "question": "a. Why did your code pass only 6/10 testcases?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-62",
+    "question": "What is Stream and Lambda expressions?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-63",
+    "question": "What is a func�onal interface?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-64",
+    "question": "Write a code using stream and lambda expression:?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-65",
+    "question": "What is dependency injec�on?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Vaipratech interview Qs. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-8",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-66",
+    "question": "Real DOM vs Virtual DOM in React?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from netspi. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-9",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-67",
+    "question": "Explain session, cookies, localStorage?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from netspi. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-9",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-68",
+    "question": "status in other tabs?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from netspi. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-9",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-69",
+    "question": "machine, what's the minimum number of comparisons to find the heavy ball?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from netspi. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-9",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-70",
+    "question": "What unique qualities do you possess?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from netspi. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-9",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-71",
+    "question": "What do you consider toxic in a company culture?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from netspi. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-9",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-72",
+    "question": "how my interest was culminated towards software programming, the projects I worked upon and the internship?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-73",
+    "question": "Write algorithm to find out angle between two hands of the clock and the constraints were?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-74",
+    "question": "there were some non-technical questions such as, which technology did you learn by yourself recently?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-75",
+    "question": "How did you publish the applications on Play Store? Which build tool did you use?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-76",
+    "question": "Have you published any cross-platform application?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-77",
+    "question": "as well as IOS with the same code?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-78",
+    "question": "Why did you consider building native Android Applications instead of the web apps?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-79",
+    "question": "How does the microservices communicate with each other?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-80",
+    "question": "CDAC project discussion – what role did you play? What is Authentication? What is Authorization? How?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-81",
+    "question": "security works in Spring boot?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-82",
+    "question": "Have you heard about web workers?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-83",
+    "question": "When the large-amount of payload comes from the response, how do you manage it on front-end to avoid the?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Interview Experience Pattern Technologies. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-11",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-84",
+    "question": "How to use this master file 5?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-85",
+    "question": "How to use this master file?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-86",
+    "question": "Explain your CDAC project and final-year project: problem, users, features, stack, and outcome?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-87",
+    "question": "What was your exact role? Which modules, APIs, screens, queries, or fixes did you own?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-88",
+    "question": "What would you redesign if traffic, data volume, or team size increased tenfold?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-89",
+    "question": "Where did you use OOP, collections, multithreading, or design patterns in the project?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-90",
+    "question": "What tables and domain models did you create? Explain their relationships?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-91",
+    "question": "What frontend and backend rating would you give yourself, and what evidence supports it?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-92",
+    "question": "Write a REST API with full Controller -> Service -> Repository/DAO flow?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-93",
+    "question": "Explain your use-case diagram, actors, system boundary, and interactions?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-94",
+    "question": "Which architecture did the project follow, and why was it suitable?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-95",
+    "question": "Explain the microservices architecture: services, gateway, discovery, configuration, and communication?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview preparation master. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-12",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-96",
+    "question": ". What is ADO.NET?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from ADO.NET. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-14",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-97",
+    "question": ". What is SqlConnection?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from ADO.NET. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-14",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-98",
+    "question": ". What is SqlCommand?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from ADO.NET. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-14",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-99",
+    "question": ". What is SqlDataReader?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from ADO.NET. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-14",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-100",
+    "question": ". Difference between ExecuteReader() and ExecuteNonQuery()?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from ADO.NET. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-14",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-101",
+    "question": ". What is ExecuteScalar()?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from ADO.NET. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-14",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-102",
+    "question": ". Why use Parameters?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from ADO.NET. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-14",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-103",
+    "question": "What is Dependency Injection?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-104",
+    "question": "Why Do We Need DI?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-105",
+    "question": "What is a Dependency?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-106",
+    "question": "Q. What is Dependency Injection?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-107",
+    "question": "Q. Why do we need DI?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-108",
+    "question": "Q. What is a dependency?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-109",
+    "question": "Q. Which injection type is most commonly used?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-110",
+    "question": "Q. Which lifetime is most commonly used in ASP.NET Core?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-111",
+    "question": "Q. Difference between Transient, Scoped, and Singleton?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-112",
+    "question": "What is Repository Pattern?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-113",
+    "question": "Why Do We Need Repository Pattern?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-114",
+    "question": "When Should We Use Repository Pattern?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from net programong.pdf. The original PDF is preserved in the resource library.",
+    "category": "Interview Preparation",
+    "topic": "Interview",
+    "difficulty": "Unrated",
+    "tags": [
+      "Interview Preparation",
+      "Interview",
+      "Imported"
+    ],
+    "resourceId": "resource-16",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-115",
+    "question": "Is the input complete?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-116",
+    "question": "Which language is it?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-117",
+    "question": "Does it contain images, files, or audio?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-118",
+    "question": "Explain Python Explain Python dictionary?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-119",
+    "question": "\"What am I looking for?\" \"What information do I have?\" \"The information to share.\"?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-120",
+    "question": "What the model already knew What the current layer just A richer, more complete?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-121",
+    "question": "What the model started with?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-122",
+    "question": "What the model now has?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-123",
+    "question": "how creative or deterministic the output is?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from How a Prompt Becomes an Answer. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-17",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-124",
+    "question": "Out of ten strengths, weaknesses, what was wrong in my answer? What is right in my answer?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from interview agent. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-18",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-125",
+    "question": "1 Why Python for AI?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Python Foundation for Argentic AI. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-19",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-126",
+    "question": "what print() shows for your object — you will see many dunder methods used across AI libraries?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Python Foundation for Argentic AI. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-19",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-127",
+    "question": "When 2 or multiple methods have same name but different signatures, then they are called as overloaded?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-128",
+    "question": "When a variable is declared as static, a single copy is created of that variable irrespective of the number of objects?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-129",
+    "question": "When a method is defined as static, it can be invoked without an object?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-130",
+    "question": "When an object is created, its reference is stored on stack whereas the actual object is stored on heap?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-131",
+    "question": "When an object contains another object or several objects then it is called as Containment?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-132",
+    "question": "When a class inherits another class then it is called as inheritance?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-133",
+    "question": "When methods have same name, same signature and same return type defined within inherited classes, then they?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-134",
+    "question": "When a class provides a method that is not to be defined but only declared, Java enforces that method to be?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-135",
+    "question": "When a class is declared as abstract, it cannot be instantiated?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-136",
+    "question": "When a class is defined within another class then it is called as an inner class?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-137",
+    "question": "When an inner class is declared with static modifier, then it is called as a static inner class?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-138",
+    "question": "When an inner class is declared without static modifier, then it is called as a nested class?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from OOP's with Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-20",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-139",
+    "question": "Why JDBC Driver needs to be loaded?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-140",
+    "question": "In case of parameterized query, the unknown parameters are denoted using ‘?’ and every?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-141",
+    "question": "Before executing the query, it is necessary to substitute actual values in place of ‘?’?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-142",
+    "question": "When any DML operation is performed using JDBC, by default, changes are auto-committed?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-143",
+    "question": "When a component is to be instantiated explicitly using new keyword then that component is?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-144",
+    "question": "When a component gets instantiated implicitly without new keyword then that component is?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-145",
+    "question": "When a component is responsible for accepting a web request and generating a web response?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-146",
+    "question": "When a component is responsible for handling business logic of the application then that?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-147",
+    "question": "How Jakarta EE components are managed?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-148",
+    "question": "How Containers are made available?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-149",
+    "question": "When the web application has been developed, it needs to be deployed (hosted) on web server?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-150",
+    "question": "When the servlet is requested very 1st time, it gets loaded by web container and once the?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Web based Java. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-21",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-151",
+    "question": "Why Software Engineering required?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Software Engineering. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-22",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-152",
+    "question": "Why Algorithms Are the Core of Every Tech Interview?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Algorithm Interview Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-25",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-153",
+    "question": "What Interviewers Evaluate Common Candidate Mistakes?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Algorithm Interview Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-25",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-154",
+    "question": "Algorithm Best/Avg Worst Space Stable? Use Case?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Algorithm Interview Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-25",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-155",
+    "question": "Jump Game Can reach end? Min jumps? Greedy coverage?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Algorithm Interview Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-25",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-156",
+    "question": "Repeat the problem. Ask about input size, edge cases, sorted?, Before writing: 'This will be O(n) time, O(1) space.' Interviewers reward?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Algorithm Interview Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-25",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-157",
+    "question": "duplicates?, constraints. upfront analysis?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Algorithm Interview Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-25",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-158",
+    "question": "Which topic does this belong to? Two pointers? DP? Graph? Map the?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Algorithm Interview Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-25",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-159",
+    "question": "what ever follows till the end of line is ignored. Note that there is no closing symbol?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from c++ notes by Dr amar. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-26",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-160",
+    "question": "What is contained within these braces is what the function does when it is executed?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from c++ notes by Dr amar. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-26",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-161",
+    "question": "write many statements per line or write a single statement that takes many code lines. The division of?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from c++ notes by Dr amar. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-26",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-162",
+    "question": "How ever an enumerated value can be used in place of an int value?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from c++ notes by Dr amar. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-26",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-163",
+    "question": "How Your Program Actually Works?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-164",
+    "question": "Write the function signature and docstring first?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-165",
+    "question": "Implement the main logic block?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-166",
+    "question": "When designing any function, always answer these questions BEFORE writing the first line:?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-167",
+    "question": "What is the OUTPUT (O/P)? Start here. Know what you need to return before?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-168",
+    "question": "What is the INPUT (I/P)? What data do you need to produce that output?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-169",
+    "question": "Does this function exist (Yes/No)? Check built-in libraries before writing from?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-170",
+    "question": "What is the default value? What should happen if the input is missing or?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-171",
+    "question": "What is the actual process? Now design the transformation logic?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-172",
+    "question": "# 1. What output do I need? -> sorted list of unique numbers?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-173",
+    "question": "# 2. What input do I have? -> unsorted list with duplicates?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-174",
+    "question": "# 3. Does it exist? -> yes: set() removes duplicates, sorted() sorts?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from CodeSmart Student Guide. The original PDF is preserved in the resource library.",
+    "category": "General",
+    "topic": "Resources",
+    "difficulty": "Unrated",
+    "tags": [
+      "General",
+      "Resources",
+      "Imported"
+    ],
+    "resourceId": "resource-27",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-175",
+    "question": "// result = (condition) ? value_if_true : value_if_false;?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from cpp logic booklet. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-28",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-176",
+    "question": "string msg = (age >= 18) ? \"Adult\" : \"Minor\";?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from cpp logic booklet. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-28",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-177",
+    "question": "int max = (a > b) ? a : b;?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from cpp logic booklet. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-28",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-178",
+    "question": "// 1. What is the base case? (smallest subproblem with known answer)?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from cpp logic booklet. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-28",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-179",
+    "question": "// 2. What is the recursive relation? (how to reduce problem size)?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from cpp logic booklet. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-28",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-180",
+    "question": "T maxVal(T a, T b) { return (a > b) ? a : b; }?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from cpp logic booklet. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-28",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-181",
+    "question": "What Are Storage Classes?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C Storage Classes. The original PDF is preserved in the resource library.",
+    "category": "C++",
+    "topic": "Programming",
+    "difficulty": "Unrated",
+    "tags": [
+      "C++",
+      "Programming",
+      "Imported"
+    ],
+    "resourceId": "resource-29",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-182",
+    "question": "where to store a variable?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C Storage Classes. The original PDF is preserved in the resource library.",
+    "category": "C++",
+    "topic": "Programming",
+    "difficulty": "Unrated",
+    "tags": [
+      "C++",
+      "Programming",
+      "Imported"
+    ],
+    "resourceId": "resource-29",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-183",
+    "question": "Where a variable is accessible How long a variable exists?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from C Storage Classes. The original PDF is preserved in the resource library.",
+    "category": "C++",
+    "topic": "Programming",
+    "difficulty": "Unrated",
+    "tags": [
+      "C++",
+      "Programming",
+      "Imported"
+    ],
+    "resourceId": "resource-29",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-184",
+    "question": "What is Dynamic Programming?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-185",
+    "question": "What You Should Be Studying?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-186",
+    "question": "What does dp[i] represent? The single most How do we compute dp[i] from smaller states? Smallest sub-problems with known answers?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-187",
+    "question": "What FAANG & Top Companies Actually Ask?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-188",
+    "question": "How do you identify if a problem requires DP? What's the difference between DP and Divide & Conquer?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-189",
+    "question": "When to use top-down vs bottom-up DP? How do you optimize space in DP?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-190",
+    "question": "Explain the Knapsack problem and its variants. What is the time complexity of LCS / Edit Distance?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-191",
+    "question": "dp[i] = ? What does this index represent? Write it down?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-192",
+    "question": "At each state, what decisions can we make? Include / Exclude?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Dynamic Programming Masterclass CareerCredentials. The original PDF is preserved in the resource library.",
+    "category": "Algorithms",
+    "topic": "DSA",
+    "difficulty": "Unrated",
+    "tags": [
+      "Algorithms",
+      "DSA",
+      "Imported"
+    ],
+    "resourceId": "resource-30",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-193",
+    "question": "// Raw pointer — who owns this? Who deletes it?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from smart pointers. The original PDF is preserved in the resource library.",
+    "category": "C++",
+    "topic": "Programming",
+    "difficulty": "Unrated",
+    "tags": [
+      "C++",
+      "Programming",
+      "Imported"
+    ],
+    "resourceId": "resource-31",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-194",
+    "question": "Rule of thumb: child owns parent? Use weak_ptr to avoid cycles?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from smart pointers. The original PDF is preserved in the resource library.",
+    "category": "C++",
+    "topic": "Programming",
+    "difficulty": "Unrated",
+    "tags": [
+      "C++",
+      "Programming",
+      "Imported"
+    ],
+    "resourceId": "resource-31",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-195",
+    "question": "When in doubt: unique_ptr. Need sharing: shared_ptr. Have cycles: weak_ptr?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from smart pointers. The original PDF is preserved in the resource library.",
+    "category": "C++",
+    "topic": "Programming",
+    "difficulty": "Unrated",
+    "tags": [
+      "C++",
+      "Programming",
+      "Imported"
+    ],
+    "resourceId": "resource-31",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-196",
+    "question": "In how many distinct ways can you climb to the top?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Top15 Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-32",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-197",
+    "question": "Write a function to find the longest common prefix string amongst an array of strings. If there is no common?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Top15 Interview Questions. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-32",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-198",
+    "question": "Define Encapsulation?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-199",
+    "question": "Define Data Abstraction?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-200",
+    "question": "Define Inheritance?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-201",
+    "question": "Define Multiple Inheritance?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-202",
+    "question": "Define Polymorphism?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-203",
+    "question": "Define Message Passing?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-204",
+    "question": "Define Extensibility?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-205",
+    "question": "Define Persistence?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-206",
+    "question": "Define Delegation?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-207",
+    "question": "Define Containership?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-208",
+    "question": "Define Genericity?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-209",
+    "question": "Define Abstract Data types?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from SUBJECTIVE IN OOP. The original PDF is preserved in the resource library.",
+    "category": "SQL / DBMS",
+    "topic": "Database",
+    "difficulty": "Unrated",
+    "tags": [
+      "SQL / DBMS",
+      "Database",
+      "Imported"
+    ],
+    "resourceId": "resource-37",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-210",
+    "question": "Why the Name “JavaScript”?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Javascript Last Day Revision. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-38",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-211",
+    "question": "Why Use External JavaScript?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Javascript Last Day Revision. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-38",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-212",
+    "question": "let result = confirm(\"Are you sure?\");?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Javascript Last Day Revision. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-38",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-213",
+    "question": "if (confirm(\"Do you want to delete this?\")) {?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Javascript Last Day Revision. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-38",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-214",
+    "question": "let name = prompt(\"What is your name?\");?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Javascript Last Day Revision. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-38",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-215",
+    "question": "let result = (age >= 18) ? \"Adult\" : \"Minor\";?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Javascript Last Day Revision. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-38",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-216",
+    "question": "Syntax: condition ? expressionIfTrue : expressionIfFalse;?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Javascript Last Day Revision. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-38",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-217",
+    "question": "console.log(isLoggedIn ? \"Welcome!\" : \"Please log in.\");?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Javascript Last Day Revision. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-38",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-218",
+    "question": "Who Created jQuery?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Last Day Revision jquery Notes. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-39",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-219",
+    "question": "Why jQuery Was Popular?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Last Day Revision jquery Notes. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-39",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  },
+  {
+    "id": "imported-220",
+    "question": "🔹 What is $(document).ready()?",
+    "shortAnswer": "Open the linked source document to review the supplied answer and context.",
+    "detailedAnswer": "This question was indexed from Last Day Revision jquery Notes. The original PDF is preserved in the resource library.",
+    "category": "Java",
+    "topic": "Java",
+    "difficulty": "Unrated",
+    "tags": [
+      "Java",
+      "Imported"
+    ],
+    "resourceId": "resource-39",
+    "followUps": [],
+    "code": null,
+    "imported": true
+  }
+]
