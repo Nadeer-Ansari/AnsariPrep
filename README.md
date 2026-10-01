@@ -11,7 +11,7 @@ A public interview-preparation platform for students, freshers, and software-dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES_Modules-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-[Features](#-key-features) · [Screenshots](#-screenshots) · [Getting Started](#-getting-started) · [Deployment](#-deployment)
+[Live Demo](#-live-demo) · [Features](#-key-features) · [Screenshots](#-screenshots) · [Getting Started](#-getting-started) · [Deployment](#-deployment)
 
 **Created by Nadeer Ansari**
 
@@ -24,6 +24,11 @@ A public interview-preparation platform for students, freshers, and software-dev
 AnsariPrep brings technical revision, coding practice, interview questions, project discussions, and study documents into one searchable workspace. Learners can explore topics, save useful material, track their progress, and rehearse interview answers at their own pace.
 
 The application runs as a React single-page app. Its study library ships with the website, while each visitor's bookmarks, drafts, and progress stay in their own browser.
+
+## 🌐 Live Demo
+
+- **Vercel:** [ansariprep.vercel.app](https://ansariprep.vercel.app/)
+- **Netlify:** [ansariprep.netlify.app](https://ansariprep.netlify.app/)
 
 ## ✨ Key Features
 
@@ -141,7 +146,7 @@ The production build is generated in `dist/`. No API key, database, or `.env` fi
 
 ## ☁️ Deployment
 
-Vercel and Netlify configuration is included. Their live demo links will be added after the deployments are published and verified.
+Live deployments are available on [Vercel](https://ansariprep.vercel.app/) and [Netlify](https://ansariprep.netlify.app/). Configuration for both hosts is included in the repository.
 
 | Setting | Value |
 | --- | --- |
